@@ -53,8 +53,8 @@ img {
   position: absolute;
 
   top: 50%;
-  left: 40%;
-  transform: translate(-55%, -60%);
+  left: 50%;
+  transform: translate(-60%, -57.3%);
   z-index: 100;
 }
 .header_right .man_top {
@@ -192,6 +192,7 @@ img {
 .reng_item > p {
   color: rgba(0, 0, 0, 0.753);
   padding: 0.5rem 0rem;
+  text-transform: capitalize;
 }
 /* reng section ends here */
 
@@ -207,6 +208,7 @@ img {
 .footer_title {
   color: grey;
   font-size: 2rem;
+  font-weight: bold;
 }
 .footer_text-color {
   color: coral;
